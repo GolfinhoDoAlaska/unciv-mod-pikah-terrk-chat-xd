@@ -1,3 +1,0 @@
-# Terrk chat
-
-xd
