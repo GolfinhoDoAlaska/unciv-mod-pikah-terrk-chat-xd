@@ -1,0 +1,71 @@
+[
+	{
+		"name": "Sealand",
+		"leaderName": "Sealand I",
+		"adjective": ["Sealander"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "TBD",
+		"startIntroPart2": "TBD",
+		
+		"declaringWar": "You are too sus for this world...",
+		"attacked": "I can't believe... The imposter is you!",
+		"defeated": "Bruh moment",
+		"introduction": "I love the Principality of Sealand!",
+		
+		"neutralHello": "Hi",
+		"neutralLetsHearIt": ["Yes.","Speak."],
+		"neutralNo": ["No.","That's kinda sus."],
+		"neutralYes": ["I can't refuse.","I accept."],
+		"hateHello": "Don't waste my time!",
+		"hateLetsHearIt": "What's your offer?",
+		"hateNo": ["Sealand will never accept that!","No way!"],
+		"hateYes": ["I must accept.","I never reject a good offer."],
+		
+		"afterPeace": "I guess you weren't the imposter",
+		"tradeRequest": "<!> Trade deal <!>",
+
+		"outerColor": [5, 5, 5],
+		"innerColor": [225, 100, 100],
+		"uniqueName": "Culture of Raping fish",
+		"uniqueText": "Naval units upkeep costs -25%",
+		"uniques": [""],
+		"cities": ["Sealand", "Sealand 2", "Sealand 3", "Turk City", "Turk City 2", "Turk city 3", "Sealand 4", "Sealand 5", "Sealand 6", "Greek Sucks City", "Greek Sucks City 2", "Greek Sucks City 3"]
+	},
+			{
+		"name": "Cjskks",
+		"leaderName": "Cjskks I",
+		"adjective": ["Autocrat-Doggese"],
+		"startBias": ["Plains", "Hills"],
+		"preferredVictoryType": "Conquest",
+		
+		"startIntroPart1": "Ok. Cool",
+		"startIntroPart2": "Bottom Text",
+		
+		"declaringWar": "HEHE :trollchina::trollchina::trollchina::trollchina::trollchina:",
+		"attacked": "How dare you?!",
+		"defeated": "Bruh hour",
+		"introduction": "Suspicious Civ5 and TES3 enjoyer",
+		
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": ["Yes.","Speak."],
+		"neutralNo": ["No.","That's kinda sus."],
+		"neutralYes": ["I can't refuse.","I accept."],
+		"hateHello": "Don't waste my time!",
+		"hateLetsHearIt": "What's your offer?",
+		"hateNo": ["Sealand will never accept that!","No way!"],
+		"hateYes": ["I must accept.","I never reject a good offer."],
+		
+		"afterPeace": "Guess what? It was a amazing learn!",
+		"tradeRequest": "What about...",
+
+		"outerColor": [110, 30, 50],
+		"innerColor": [225, 100, 100],
+		"uniqueName": "Ultranat Buddah",
+		"uniqueText": "Your mom jokes aren't funny :chad:",
+		"uniques": [""],
+		"cities": ["Sealand", "Sealand 2", "Sealand 3", "Turk City", "Turk City 2", "Turk city 3", "Sealand 4", "Sealand 5", "Sealand 6", "Greek Sucks City", "Greek Sucks City 2", "Greek Sucks City 3"]
+	},
+	
+]
